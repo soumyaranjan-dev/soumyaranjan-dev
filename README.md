@@ -1,4 +1,4 @@
-# README.md
+
 # 💫 About Me:
 🫡 Soumyaranjan Mandal<br>🌱 I’m currently learning MERN<br>⭐ Dream is to be Mentor<br>⚡ Fun fact is also a fun fact itself ...
 
